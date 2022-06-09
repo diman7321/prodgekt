@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* line 7, ../../../../../../дмитрий/Desktop/Новая папка (2)/sass/style.sass */
+h1 {
+  color: weit;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 11, ../../../../../../дмитрий/Desktop/Новая папка (2)/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 13, ../../../../../../дмитрий/Desktop/Новая папка (2)/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 15, ../../../../../../дмитрий/Desktop/Новая папка (2)/sass/style.sass */
+.block h3 {
+  color: red;
+}
+
+/* line 17, ../../../../../../дмитрий/Desktop/Новая папка (2)/sass/style.sass */
+.block_color {
+  background-color: white;
+}
+
+/* line 19, ../../../../../../дмитрий/Desktop/Новая папка (2)/sass/style.sass */
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 21, ../../../../../../дмитрий/Desktop/Новая папка (2)/sass/style.sass */
+.block .black_color {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
